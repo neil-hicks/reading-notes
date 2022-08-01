@@ -10,4 +10,4 @@ Talk about growth mindset
 * You may not know yet, but you will soon
 * Mistakes are the path to learning
 
-Link to my github portfolio: https://github.com/neil-hicks
+Link to my [github portfolio] (https://github.com/neil-hicks)
