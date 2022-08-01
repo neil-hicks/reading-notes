@@ -22,7 +22,8 @@ that can't be developed and improved upon.
 
 #### Contact info
 
+Link to my [github portfolio](https://github.com/neil-hicks)
+
 Visit www.linkedin.com/in/neilhicks
 
 
-Link to my [github portfolio](https://github.com/neil-hicks)
