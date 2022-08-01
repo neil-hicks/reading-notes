@@ -20,4 +20,11 @@ that can't be developed and improved upon.
      - A smooth sea never made a skilled sailor.  Use your mistakes, 
     correct them, and learn from them
 
+#### Contact info
+
+patrick.n.hicks@gmail.com
+
+www.linkedin.com/in/neilhicks
+
+
 Link to my [github portfolio](https://github.com/neil-hicks)
