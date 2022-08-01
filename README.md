@@ -22,9 +22,7 @@ that can't be developed and improved upon.
 
 #### Contact info
 
-patrick.n.hicks@gmail.com
-
-www.linkedin.com/in/neilhicks
+Visit www.linkedin.com/in/neilhicks
 
 
 Link to my [github portfolio](https://github.com/neil-hicks)
