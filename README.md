@@ -1,7 +1,5 @@
 # This is my reading notes repo!
 
-## _My name is Patrick and I love Javascript_
-
 ### Talk about growth mindset
 
 Overall the idea of growth mindset means, to me, 
@@ -12,7 +10,7 @@ This is contrast to a fixed mindset, which attributes
 learning and other types of success to innate traits
 that can't be developed and improved upon.
 
-3 reminders for growth mindset:
+### 3 reminders for growth mindset:
 
   * Push the I believe button
     *  When faced with difficulty, persevere by using positive self-talk
