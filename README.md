@@ -13,7 +13,7 @@
 
 [Class 2 notes - Text editors and the terminal](class2.md)
 
-[Class 3 notes - Git and version control]()
+[Class 3 notes - Git and version control](class3.md)
 
 ### Contact info
 
