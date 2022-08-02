@@ -21,6 +21,31 @@ that can't be developed and improved upon.
     correct them, and learn from them
 
 
+## Markdown
+
+According to [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax), markdown allows user to: 
+
+> Create sophisticated formatting for your prose and code on GitHub with simple syntax 
+
+
+Essentially it allows users to format and customize web pages without knowledge of HTML and CSS. An exmaple of Markdown applied to heading follows:
+
+```# Heading level 1``` will display as 
+
+# Heading level 1.
+
+```## Heading level 2``` will display as 
+
+## Heading level 2.  
+
+The smallest heading, ```###### Heading level 6``` 
+
+will appear as ###### Heading level 6.
+
+More information on specific usage can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+
+
 ## Text editors and the terminal
 
 ### Text editors
