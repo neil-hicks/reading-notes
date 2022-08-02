@@ -28,5 +28,6 @@ Link to my [github portfolio](https://github.com/neil-hicks)
 
 [Contact me](mailto:patrick.n.hicks@gmail.com)
 
+https://neil-hicks.github.io/reading-notes/
 
 
