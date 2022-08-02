@@ -73,7 +73,7 @@ certain features.
 
 ![Terminal cheat sheet](https://miro.medium.com/max/1400/1*CZ_83PbU9syxWpJw5k8CQQ.png) 
 
-- Terminal cheat sheet from https://ltramos7.medium.com/)
+- Terminal cheat sheet from https://ltramos7.medium.com/
 
 
 
