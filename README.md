@@ -25,8 +25,3 @@ Link to my [github portfolio](https://github.com/neil-hicks)
 [LinkedIn](https://www.linkedin.com/in/neilhicks)
 
 [Contact me](mailto:patrick.n.hicks@gmail.com)
-
-
-
-
-
