@@ -1,6 +1,6 @@
 # This is my reading notes repo!
 
-### Talk about growth mindset
+## Talk about growth mindset
 
 Overall the idea of growth mindset means, to me, 
 that through _effort, struggle, and correcting mistakes,_ 
@@ -20,6 +20,38 @@ that can't be developed and improved upon.
      - A smooth sea never made a skilled sailor.  Use your mistakes, 
     correct them, and learn from them
 
+
+## Text editors and the terminal
+
+### Text editors
+
+Allows you to write and manage text…one of the most important tools of a web developer.
+
+Doesn’t matter which one you use, they’re more about personal choice, as long as they have 
+certain features.
+
+**Things to look for when selecting a text editor:**
+  1. Code completion
+  2. Syntax highlighting
+  3. Variety of themes
+  4. Selection of extensions
+
+**Better-known examples of text editors**
+  - VSC
+  - Atom
+  - Notepad
+  - Sublime Text 
+  - Text edit
+
+
+### Terminal cheat sheet
+
+![Terminal cheat sheet](https://miro.medium.com/max/1400/1*CZ_83PbU9syxWpJw5k8CQQ.png) 
+
+- Terminal cheat sheet from https://ltramos7.medium.com/)
+
+
+
 #### Contact info
 
 Link to my [github portfolio](https://github.com/neil-hicks)
@@ -29,5 +61,6 @@ Link to my [github portfolio](https://github.com/neil-hicks)
 [Contact me](mailto:patrick.n.hicks@gmail.com)
 
 https://neil-hicks.github.io/reading-notes/
+
 
 
