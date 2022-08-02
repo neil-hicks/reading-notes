@@ -15,7 +15,7 @@
 
 [Class 3 notes - Git and version control](class3.md)
 
-[Class 4 notes](class4.md)
+[Class 4 notes - Wireframing and HTML](class4.md)
 
 ### Contact info
 
