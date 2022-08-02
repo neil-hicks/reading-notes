@@ -76,8 +76,13 @@ certain features.
 - Terminal cheat sheet from https://ltramos7.medium.com/
 
 
+### Class notes
 
-#### Contact info
+[Class 1 notes](class1.md)
+
+[Class 2 notes](class2.md)
+
+### Contact info
 
 Link to my [github portfolio](https://github.com/neil-hicks)
 
