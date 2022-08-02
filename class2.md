@@ -29,3 +29,4 @@ certain features.
 
 - Terminal cheat sheet from https://ltramos7.medium.com/
 
+[Home](README.md)
