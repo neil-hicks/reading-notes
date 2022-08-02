@@ -1,4 +1,4 @@
-# Class 3 notes
+# Class 3 Notes
 
 ## Git
 
