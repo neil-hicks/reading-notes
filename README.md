@@ -18,6 +18,8 @@
 
 [Class 4 notes - Wireframing and HTML](class4.md)
 
+[Class 5 notes - CSS](class5.md)
+
 ### Contact info
 
 Link to my [github portfolio](https://github.com/neil-hicks)
