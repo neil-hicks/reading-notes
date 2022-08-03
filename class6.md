@@ -4,9 +4,10 @@
 
 Most well-known scripting language for web pages (not to be confused with Java, a very different language).
 
-### Variables hold values.  Variables are like a box and the value is what’s in the box.
+### Variables hold values.  Variables are like a box and the value is what’s in the box
 
 4 ways to declare variables
+    
     1. Using var
     2. Using let
     3. Using const
