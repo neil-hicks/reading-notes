@@ -1,4 +1,4 @@
-# Class 4 Notes
+# Class 5 Notes
 
 ## CSS
 
@@ -30,16 +30,15 @@ Opens with selector, followed by curly braces, inside of which are one or more d
 ```style-rule ::=
     selectors-list {
       properties-list
-    }
+    }```
 
 Where :
 
-selectors-list ::=
+```selectors-list ::=
     selector[:pseudo-class] [::pseudo-element]
     [, selectors-list]
 
 properties-list ::=
-    [property : value] [; properties-list]
-```
+    [property : value] [; properties-list]```
 
 [Home](README.md)
