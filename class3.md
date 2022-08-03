@@ -2,11 +2,11 @@
 
 ## Git
 
-Git intro (summarized from https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+Git intro (summarized from <https://blog.udemy.com/git-tutorial-a-comprehensive-guide/>)
 
 Version Control allows users to maintain and different versions of files by tracking changes
 
-**3 versions**
+** 3 versions
 
     1. Local - one database on a hard drive
     2. Centralized - single server with all changes
