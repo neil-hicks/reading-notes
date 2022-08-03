@@ -31,7 +31,9 @@ Opens with selector, followed by curly braces, inside of which are one or more d
     selectors-list {
       properties-list
     }
+
 Where :
+
 selectors-list ::=
     selector[:pseudo-class] [::pseudo-element]
     [, selectors-list]
