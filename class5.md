@@ -36,9 +36,9 @@ Where :
 
 ```selectors-list ::=
     selector[:pseudo-class] [::pseudo-element]
-    [, selectors-list]
+    [, selectors-list]```
 
-properties-list ::=
+```properties-list ::=
     [property : value] [; properties-list]```
 
 [Home](README.md)
