@@ -1,6 +1,6 @@
-# This is my reading notes repo!
+# This is my reading notes repo
 
-### About me
+## About me
 
 - 👋 Hi, I’m @neil-hicks
 - 👀 I’m interested in learning anything and everything to assist my transition into software engineering.
@@ -19,6 +19,8 @@
 [Class 4 notes - Wireframing and HTML](class4.md)
 
 [Class 5 notes - CSS](class5.md)
+
+[Class 6 notes - JavaScript](class6.md)
 
 ### Contact info
 
