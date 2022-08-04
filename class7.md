@@ -22,8 +22,8 @@ The code to be executed, by the function, is placed inside curly brackets: {}
 // code to be executed
 }
 
-
 ### Javascript Operators
+
 JavaScript Arithmetic Operators
 Arithmetic operators are used to perform arithmetic on numbers:
 
