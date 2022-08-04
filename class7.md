@@ -22,4 +22,27 @@ The code to be executed, by the function, is placed inside curly brackets: {}
 // code to be executed
 }
 
+
+### Javascript Operators
+JavaScript Arithmetic Operators
+Arithmetic operators are used to perform arithmetic on numbers:
+
+![Arithmetic](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators-1024x648.png "Arithmetic Operators")
+
+Relational or Comparison Operators
+
+![Relational](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Relational-or-Comparison-Operator-1024x576.png "Relational or comparison operators")
+
+Logical Operators
+
+![Logical Operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Logical-Operator-1024x352.png "Logical Operators")
+
+Bitwise Operators
+
+![Bitwise Operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Bitwise-Operators.png "Bitwise Operators")
+
+Assignment Operators
+
+![Assignment Operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Assignment-Operators.png "Assingment Operators")
+
 [Home](README.md)
