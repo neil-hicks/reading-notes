@@ -5,7 +5,7 @@
 ### Comparison operators
 
 A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values. Strings are compared based on standard lexicographical ordering, using Unicode values. In most cases, if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behavior generally results in comparing the operands numerically. The sole exceptions to type conversion within comparisons involve the === and !== operators, which perform strict equality and inequality comparisons. These operators do not attempt to convert the operands to compatible types before checking equality. The following table describes the comparison operators in terms of this sample code:
-![Comparison Operator](https://chunxuchai.wordpress.com/2019/05/31/javascript-basic-study-note-for-boolean-logic-and-logical-operators “Comparison Operators”)
+![Comparison Operator](https://www.twblogs.net/a/5cf66431bd9eee14644e0a04 “Comparison Operators”)
 
 ### Assignment operators
 
@@ -19,7 +19,7 @@ You can think of a loop as a computerized version of the game where you tell som
 ### For statement
 
 A for loop repeats until a specified condition evaluates to false.
-![For Loop](https://www.codingem.com/wp-content/uploads/2022/03/for-loop-javascript.png “For Loop”)
+![For Loop](https://www.javascripttutorial.net/wp-content/uploads/2022/01/javascript-for-loop.svg “For Loop”)
 
 ### While statement
 
