@@ -22,6 +22,8 @@
 
 [Class 6 notes - JavaScript](class6.md)
 
+[Class 7 notes - control flow and functions](class.md)
+
 ### Contact info
 
 Link to my [github portfolio](https://github.com/neil-hicks)
