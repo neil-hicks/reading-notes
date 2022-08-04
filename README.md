@@ -24,6 +24,8 @@
 
 [Class 7 notes - control flow and functions](class7.md)
 
+[Class 8 notes - Operators and loops](class8.md)
+
 ### Contact info
 
 Link to my [github portfolio](https://github.com/neil-hicks)
