@@ -22,7 +22,7 @@
 
 [Class 6 notes - JavaScript](class6.md)
 
-[Class 7 notes - control flow and functions](class.md)
+[Class 7 notes - control flow and functions](class7.md)
 
 ### Contact info
 
