@@ -37,7 +37,13 @@ Variables are used as containers to store values.  They are important in JavaScr
 
 ### Q: What is an HTML attribute?
 
+According to [mdn](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started), HTML attributes contain extra information that is not visible in the actual content. Examples include "href=", "src=", which are used for links and image sources, respectively.
+
 ### Q: Describe the Anatomy of an HTMl element.
+
+![Images/download.png](https://developer.mozilla.org/en-US/docs/Glossary/Element)
+
+HTML elements usually include opening and closing tags, attributes, and text.
 
 ### Q: What is the Difference between ```<article>```a nd ```<section>``` element tags?
 
@@ -61,7 +67,7 @@ What does the designer need to do to reach these goals?
 
 Again, according to [mdn web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding), the most important question to answer is “What exactly do I want to accomplish?”
 
-### Q: Why should you use an ```<h1>``` element over a ```"<span>"``` element to display a top level heading?  
+### Q: Why should you use an ```<h1>``` element over a ```<span>``` element to display a top level heading?  
 
 According to [mdn web docs - Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics), an ```<h1>``` is preferable to a ```<span>``` because, while they may look the same, the heading is more appropriate as it actually represents the data.
 
