@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on anything that will help me be better and smarter than I was yesterday.
 
 ### Course 201 reading notes
+[Class01 Reading Notes](class01.md)
 
 #### [Course 102 reading notes](102-notes/102-notes.md)
 
