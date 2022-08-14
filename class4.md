@@ -11,11 +11,13 @@ Wireframing is a process that is used before the actual website is built to make
 Done in plain black and white to make sure the site it organized effectively before adding additional  elements which can be distracting
 
 Wireframes can be:
-  - Hand drawn
-  - Paper prototypes
-  - Software-designed
+
+- Hand drawn
+- Paper prototypes
+- Software-designed
 
 Things to consider before wireframing
+
   1. Understand your audience
   2. Prepare your reference materials
   3. Map out flow
@@ -24,6 +26,7 @@ Things to consider before wireframing
   6. Turn frames into prototypes
 
 3 principles of good wireframes
+
 - Simple
 - User confidence
 - Clear
@@ -51,6 +54,7 @@ HTML documents use the following elements that form the basis of each page
 
 Additionally, HTML can be used to identify headings within the content.
 The heading levels are as follows, in descending size order:
+
 ```
 <h1></h1>
 <h2></h2>
@@ -62,3 +66,4 @@ Lists are made using ```<ul></ul>``` (unordered) and the ```<ol></ol>``` (ordere
 Items within each of the lists are wrapped in the ```<li></li>``` element.
 
 [Home](README.md)
+[Course 102 Notes](102-notes.md)

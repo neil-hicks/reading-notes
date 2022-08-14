@@ -4,7 +4,7 @@
 
 ### Comparison operators
 
-A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values. Strings are compared based on standard lexicographical ordering, using Unicode values. In most cases, if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behavior generally results in comparing the operands numerically. The sole exceptions to type conversion within comparisons involve the === and !== operators, which perform strict equality and inequality comparisons. These operators do not attempt to convert the operands to compatible types before checking equality. 
+A comparison operator compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or object values. Strings are compared based on standard lexicographical ordering, using Unicode values. In most cases, if the two operands are not of the same type, JavaScript attempts to convert them to an appropriate type for the comparison. This behavior generally results in comparing the operands numerically. The sole exceptions to type conversion within comparisons involve the === and !== operators, which perform strict equality and inequality comparisons. These operators do not attempt to convert the operands to compatible types before checking equality.
 
 ### Assignment operators
 
@@ -18,10 +18,11 @@ You can think of a loop as a computerized version of the game where you tell som
 ### While statement
 
 A while statement executes its statements as long as a specified condition evaluates to true. A while statement looks as follows:
-![While loop](https://www.theengineeringprojects.com/wp-content/webp/2020/01/While-Loop-In-JavaScript-1.jpg.webp?ssl=1 “While Loop”)
+![While loop](<https://www.theengineeringprojects.com/wp-content/webp/2020/01/While-Loop-In-JavaScript-1.jpg.webp?ssl=1> “While Loop”)
 
 ### For statement
 
 A for loop repeats until a specified condition evaluates to false.
 
 [Home](README.md)
+[Course 102 Notes](102-notes.md)
