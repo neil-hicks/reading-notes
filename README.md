@@ -17,6 +17,8 @@
 
 [Course 102 reading notes](102-notes/102-notes.md)
 
+## Things I want to know more about
+
 ### Contact info
 
 Link to my [GitHub](https://github.com/neil-hicks)
