@@ -24,5 +24,5 @@ A while statement executes its statements as long as a specified condition evalu
 
 A for loop repeats until a specified condition evaluates to false.
 
-[Home](README.md)
+[Home](/reading-notes)
 [Course 102 Notes](102-notes.md)

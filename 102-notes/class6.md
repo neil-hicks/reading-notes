@@ -23,5 +23,5 @@ Variable must be identified with unique names.
    > - Names are case sensitive (y and Y are different variables)
 > - Reserved words (like JavaScript keywords) cannot be used as names
 
-[Home](README.md)
+[Home](/reading-notes)
 [Course 102 Notes](102-notes.md)

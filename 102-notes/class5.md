@@ -41,5 +41,5 @@ Where :
 ```properties-list ::=
     [property : value] [; properties-list]```
 
-[Home](README.md)
+[Home](/reading-notes)
 [Course 102 Notes](102-notes.md)
