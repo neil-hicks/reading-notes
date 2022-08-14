@@ -2,7 +2,7 @@
 
 ## About me
 
-- 👋 Hi, I’m @neil-hicks
+- 👋 Hi, I’m [Neil Hicks](https://github.com/neil-hicks)
 - 👀 I’m interested in learning anything and everything to assist my transition into software engineering.
 - 🌱 I've enrolled in CodeFellows beginning in August 2022.
 - 💞️ I’m looking to collaborate on anything that will help me be better and smarter than I was yesterday.
