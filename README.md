@@ -7,6 +7,8 @@
 - 🌱 I've enrolled in CodeFellows beginning in August 2022.
 - 💞️ I’m looking to collaborate on anything that will help me be better and smarter than I was yesterday.
 
+## Contents
+
 ### Course 201 reading notes
 
 [Class01 Reading Notes- Getting started and Misc](class01.md)
