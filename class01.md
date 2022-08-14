@@ -2,7 +2,22 @@
 
 ## These topics are important because they lay the foundation of essential learning upon which more complex issues being taught later are built
 
-### HTTP Poem 
+### HTTP Poem
+
+A browser goes to DNS
+to find a real server address.
+
+It asks the website for a copy
+all this being sent over TCP/IP.
+
+The server sends a 200 OK,
+which means the browser is allowed to play.
+
+The server starts sending back its
+information in chunks called packets.
+
+The browser can now do what it is supposed to
+and display the web page to you.
 
 ### Q: Describe how HTML, CSS, and JS files are “parsed” in the browser  
 
@@ -39,7 +54,7 @@ Variables are used as containers to store values.  They are important in JavaScr
 
 According to [mdn](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started), HTML attributes contain extra information that is not visible in the actual content. Examples include "href=", "src=", which are used for links and image sources, respectively.
 
-### Q: Describe the Anatomy of an HTMl element.
+### Q: Describe the Anatomy of an HTMl element
 
 ![HTML element](download.png "HTML element")
 
@@ -57,7 +72,7 @@ The ```<article>``` tag is used on stand-alone content, and the ```<section>``` 
 
 Metadata is the information, including key words that are not part of the actual content, used to describe the website that search engines use to optimize search results.  
 
-### Q: How is the ```<meta>``` HTML tag used when specifying metadata? 
+### Q: How is the ```<meta>``` HTML tag used when specifying metadata?
 
 ```<meta>``` tags contain information about an HTML document that increase visibility on search engine results by including descriptions, authors, charactersets, etc. that are seen by search engines, but not by the reader of the website.
 
@@ -85,14 +100,17 @@ According to the same source as previous question, aemantic tags can have impact
 
 ### Q: Describe 2 things that require JavaScript in the Browser?
 
+Making web pages dynamic and interactive requires JavaScript.  Two things that would require JavaScript are:
+
+1. Adding certain kinds of dropdown menus to make selections.
+2. Altering the appearance of HTML elements when hovering  
+
 ### Q: How can you add JavaScript to an HTML document?
 
 According to [mdn web docs’ “What is JavaScript”](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript), Javascript can be added through:
 
 * Internal Javascript: Enclosing JavaScript functions inside of ```<script></script>``` tags within the HTML page
-
 * External JavaScript: Adding a .js file to the HTML directory, including a script tag with the destination included inside, ```<script src = ”script.js”></script>```.  The actual JavaScript code is written in the linke .js file.
-
 * Inline JavaScript – another way, but it is a bad idea, so ignore.
 
 [Home](README.md)
