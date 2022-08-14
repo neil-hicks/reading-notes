@@ -15,3 +15,5 @@
 [Class 7 notes - control flow and functions](class7.md)
 
 [Class 8 notes - Operators and loops](class8.md)
+
+[Home](README.md)
