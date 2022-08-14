@@ -16,4 +16,4 @@
 
 [Class 8 notes - Operators and loops](class8.md)
 
-[Home](README.md)
+[Home](/README.md)
