@@ -31,4 +31,5 @@ certain features.
 - Terminal cheat sheet from <https://ltramos7.medium.com/>
 
 [Home](/reading-notes)
+
 [Course 102 Notes](102-notes.md)

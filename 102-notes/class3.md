@@ -37,4 +37,5 @@ Index: The area used for staging
 Head: Points to the most recent commit
 
 [Home](/reading-notes)
+
 [Course 102 Notes](102-notes.md)

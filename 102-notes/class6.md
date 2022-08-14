@@ -24,4 +24,5 @@ Variable must be identified with unique names.
 > - Reserved words (like JavaScript keywords) cannot be used as names
 
 [Home](/reading-notes)
+
 [Course 102 Notes](102-notes.md)

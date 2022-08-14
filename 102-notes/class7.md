@@ -46,4 +46,5 @@ Assignment Operators
 ![Assignment Operators](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Assignment-Operators.png "Assingment Operators")
 
 [Home](/reading-notes)
+
 [Course 102 Notes](102-notes.md)

@@ -66,4 +66,5 @@ Lists are made using ```<ul></ul>``` (unordered) and the ```<ol></ol>``` (ordere
 Items within each of the lists are wrapped in the ```<li></li>``` element.
 
 [Home](/reading-notes)
+
 [Course 102 Notes](102-notes.md)
