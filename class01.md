@@ -4,19 +4,19 @@
 
 ### HTTP Poem
 
-A browser goes to DNS
+A browser goes to DNS\
 to find a real server address.
 
-It asks the website for a copy
+It asks the website for a copy\
 all this being sent over TCP/IP.
 
-The server sends a 200 OK,
+The server sends a 200 OK,\
 which means the browser is allowed to play.
 
-The server starts sending back its
+The server starts sending back its\
 information in chunks called packets.
 
-The browser can now do what it is supposed to
+The browser can now do what it is supposed to\
 and display the web page to you.
 
 ### Q: Describe how HTML, CSS, and JS files are “parsed” in the browser  
