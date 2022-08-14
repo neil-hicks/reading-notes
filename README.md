@@ -9,7 +9,7 @@
 
 ### Course 201 reading notes
 
-#### [Course 102 reading notes](102-notes.md)
+#### [Course 102 reading notes](102-notes/102-notes.md)
 
 ### Contact info
 
