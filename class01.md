@@ -2,6 +2,8 @@
 
 ## These topics are important because they lay the foundation of essential learning upon which more complex issues being taught later are built
 
+### HTTP Poem 
+
 ### Q: Describe how HTML, CSS, and JS files are “parsed” in the browser  
 
 (Source [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works))
@@ -33,6 +35,18 @@ One can simply go to [Google Images[(<https://www.google.com/imghp?gws_rd=ssl>) 
 
 Variables are used as containers to store values.  They are important in JavaScript because they can hold values that can be recalled later, as well as allowing them, in certain cases, to be changed.
 
+### Q: What is an HTML attribute?
+
+### Q: Describe the Anatomy of an HTMl element.
+
+### Q: What is the Difference between ```<article>```a nd ```<section>``` element tags?
+
+### Q: What Elements does a “typical” website include?
+
+### Q: How does metadata influence Search Engine Optimization?
+
+### Q: How is the ```<meta>``` HTML tag used when specifying metadata?
+
 ## Miscellaneous
 
 ### Q: What is the first step to designing a Website?
@@ -54,3 +68,9 @@ According to [mdn web docs - Semantics](https://developer.mozilla.org/en-US/docs
 ### Q: What are the benefits of using semantic tags in our HTML?
 
 According to the same source as previous question, aemantic tags can have impacts on search engine optimization and screen readers for accessibility issues, among others.
+
+### Q:Describe 2 things that require JavaScript in the Browser?
+
+### Q:How can you add JavaScript to an HTML document?
+
+[Home](README.md)
