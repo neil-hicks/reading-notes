@@ -55,12 +55,12 @@ HTML documents use the following elements that form the basis of each page
 Additionally, HTML can be used to identify headings within the content.
 The heading levels are as follows, in descending size order:
 
-```
-<h1></h1>
-<h2></h2>
-down to 
-<h6></h6>
-```
+> ```
+> <h1></h1>
+> <h2></h2>
+> down to 
+> <h6></h6>
+> ```
 
 Lists are made using ```<ul></ul>``` (unordered) and the ```<ol></ol>``` (ordered) elements.
 Items within each of the lists are wrapped in the ```<li></li>``` element.

@@ -2,7 +2,7 @@
 
 ## These topics are important because they lay the foundation of essential learning upon which more complex issues being taught later are built
 
-### Describe how HTML, CSS, and JS files are “parsed” in the browser.  
+### Describe how HTML, CSS, and JS files are “parsed” in the browser  
 
 (Source [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works))
 
@@ -15,9 +15,9 @@
 
 Source [mdn web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like))
 
-One can simply go to [Google Images[(https://www.google.com/imghp?gws_rd=ssl) and search.  One must be careful, however, to not use images that are copyrighted.  Using a license filter on Google Images (by clicking on _Tools_, _Usage Rights_ , and selecting _Creative Commons_.  
+One can simply go to [Google Images[(<https://www.google.com/imghp?gws_rd=ssl>) and search.  One must be careful, however, to not use images that are copyrighted.  Using a license filter on Google Images (by clicking on _Tools_, _Usage Rights_ , and selecting _Creative Commons_.  
 
-### How do you create a String vs a Number in JavaScript? 
+### How do you create a String vs a Number in JavaScript?
 
 (From [mdn web docs](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics))
 
@@ -32,3 +32,25 @@ One can simply go to [Google Images[(https://www.google.com/imghp?gws_rd=ssl) an
 ### What is a Variable and why are they important in JavaScript?  
 
 Variables are used as containers to store values.  They are important in JavaScript because they can hold values that can be recalled later, as well as allowing them, in certain cases, to be changed.
+
+## Miscellaneous
+
+### What is the first step to designing a Website?
+
+According to [mdn web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding), the first step to designing a website is project ideation, where the following questions are answered:
+
+What do I want to accomplish?
+How will the website allow me to accomplish this?
+What does the designer need to do to reach these goals?
+
+### What is the most important question to answer when designing a Website?
+
+Again, according to [mdn web docs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Thinking_before_coding), the most important question to answer is “What exactly do I want to accomplish?”
+
+### Why should you use an ```<h1>``` element over a ```"<span>"``` element to display a top level heading?  
+
+According to [mdn web docs - Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics), an ```<h1>``` is preferable to a ```<span>``` because, while they may look the same, the heading is more appropriate as it actually represents the data.
+
+### What are the benefits of using semantic tags in our HTML?
+
+According to the same source as previous question, aemantic tags can have impacts on search engine optimization and screen readers for accessibility issues, among others.
