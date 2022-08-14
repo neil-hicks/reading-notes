@@ -41,7 +41,7 @@ According to [mdn](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduct
 
 ### Q: Describe the Anatomy of an HTMl element.
 
-![Images/download.png](https://developer.mozilla.org/en-US/docs/Glossary/Element)
+![HTML element](download.png "HTML element")
 
 HTML elements usually include opening and closing tags, attributes, and text.
 
@@ -75,8 +75,8 @@ According to [mdn web docs - Semantics](https://developer.mozilla.org/en-US/docs
 
 According to the same source as previous question, aemantic tags can have impacts on search engine optimization and screen readers for accessibility issues, among others.
 
-### Q:Describe 2 things that require JavaScript in the Browser?
+### Q: Describe 2 things that require JavaScript in the Browser?
 
-### Q:How can you add JavaScript to an HTML document?
+### Q: How can you add JavaScript to an HTML document?
 
 [Home](README.md)
