@@ -47,11 +47,19 @@ HTML elements usually include opening and closing tags, attributes, and text.
 
 ### Q: What is the Difference between ```<article>```a nd ```<section>``` element tags?
 
+The ```<article>``` tag is used on stand-alone content, and the ```<section>``` is a part of a page that contains related content.
+
 ### Q: What Elements does a “typical” website include?
+
+[mdn](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure) states that typical websites include a header, nav bar, main conegtnt, sidebar, and footer.  
 
 ### Q: How does metadata influence Search Engine Optimization?
 
-### Q: How is the ```<meta>``` HTML tag used when specifying metadata?
+Metadata is the information, including key words that are not part of the actual content, used to describe the website that search engines use to optimize search results.  
+
+### Q: How is the ```<meta>``` HTML tag used when specifying metadata? 
+
+```<meta>``` tags contain information about an HTML document that increase visibility on search engine results by including descriptions, authors, charactersets, etc. that are seen by search engines, but not by the reader of the website.
 
 ## Miscellaneous
 
@@ -78,5 +86,13 @@ According to the same source as previous question, aemantic tags can have impact
 ### Q: Describe 2 things that require JavaScript in the Browser?
 
 ### Q: How can you add JavaScript to an HTML document?
+
+According to [mdn web docs’ “What is JavaScript”](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript), Javascript can be added through:
+
+* Internal Javascript: Enclosing JavaScript functions inside of ```<script></script>``` tags within the HTML page
+
+* External JavaScript: Adding a .js file to the HTML directory, including a script tag with the destination included inside, ```<script src = ”script.js”></script>```.  The actual JavaScript code is written in the linke .js file.
+
+* Inline JavaScript – another way, but it is a bad idea, so ignore.
 
 [Home](README.md)
