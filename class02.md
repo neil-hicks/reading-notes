@@ -46,6 +46,7 @@
     4. Logical
 
 * Describe a real world problem you could solve with a Function.
+  * Possibly purchasing something online.  An order goes in and the item shows up a few days later. All of the steps that happen in between are part of the "function."
 
 * An if statement checks a __ and if it evaluates to ___, then the code block will execute.
   * condition; true;
