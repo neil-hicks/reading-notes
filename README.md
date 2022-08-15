@@ -22,6 +22,7 @@
 ## Things I want to know more about
 
 - Functions/loops in Javascript
+- CSS in general.  I'm liking the idea of being a little more creative
 
 ### Contact info
 
