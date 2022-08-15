@@ -39,7 +39,7 @@
 * What data type is a sequence of text enclosed in single quote marks?
   * String
 
-* List 4 types of JavaScript operators. (Source: [w3schools](https://www.w3schools.com/js/js_operators.asp)
+* List 4 types of JavaScript operators. Source: [w3schools](https://www.w3schools.com/js/js_operators.asp)
     1. Comparison
     2. Arithmetic
     3. Assignment
