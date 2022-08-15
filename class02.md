@@ -1,6 +1,8 @@
 # Basics of HTML, CSS and JS
 
-## HTML
+## Having a refresher on these topics is important because knowledge of them directly impacts my ability to develop web pages
+
+### HTML
 
 * Why is it important to use semantic elements in our HTML?
   * Semantic elements allow text on a page to act like that particular, instead of just looking like it.
@@ -11,7 +13,7 @@
 * When using the ```<abbr>``` element, what attribute must be added to provide the full expansion of the term?
   * Title element.
 
-## CSS
+### CSS
 
 * What are ways we can apply CSS to our HTML?
     1. Externally from a stylesheet.
@@ -34,7 +36,7 @@
 * Which components are considered properties?
   * Color and padding.
 
-## JS
+### JS
 
 * What data type is a sequence of text enclosed in single quote marks?
   * String
