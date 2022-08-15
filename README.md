@@ -12,12 +12,15 @@
 ### Course 201 reading notes
 
 [Class01 Reading Notes- Getting started and Misc](class01.md)
+[Class02 Reading Notes- Basics of HTML, CSS and JS](class02.md)
 
 #### Course 102 reading notes
 
 [Course 102 reading notes](102-notes/102-notes.md)
 
 ## Things I want to know more about
+
+- Functions/loops in Javascript
 
 ### Contact info
 
