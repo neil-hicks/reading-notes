@@ -11,7 +11,6 @@
 
    - Lists can be numbered in several ways, numbers, Roman numerals, and letters.
     ```<ol>```
-
         ```<li>One</li>```
         ```<li>Two</li>```
         ```<li>Three</li>```
@@ -36,22 +35,23 @@
 
  ```const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];```
 
-    * It is valid.  ```console.log([number of desired array][number of desired index])```
+    * It is valid.  ```console.log([number of desired array][number of desired index]);```
 
 3. List five shorthand operators for assignment in javascript and describe what they do, taken from [w3schools](https://www.w3schools.com/js/js_assignment.asp).
-    * ```=``` assigns a value to a variable
-    * ```+=``` adds a value to a variable
-    * ```-=``` subtracts a number from a variable
-    * ```*=``` multiplies a numerb times a variable
-    * ```/=``` divides a variable by a value 
+    - ```=``` assigns a value to a variable
+    - ```+=``` adds a value to a variable
+    - ```-=``` subtracts a number from a variable
+    - ```*=``` multiplies a numerb times a variable
+    - ```/=``` divides a variable by a value
 
 4. Read the code below and evaluate the last expression and explain what the result would be and why.
 
- ```let a = 10;
+ ```let a = 10;```
+
  ```let b = 'dog';```
+
  ```let c = false;```
 
- ```// evaluate this```
  ```(a + c) + b;```
 
     * The answer to this is "10dog", because adding a number (a) to a boolean (0-false, or 1-true) returns a number.  Then adding a string to a number simply concatenates the two.  
