@@ -12,11 +12,11 @@
    - Lists can be numbered in several ways, numbers, Roman numerals, and letters.
     ```<ol>```
 
-    ```<li>One</li>```
+       ```<li>One</li>```
 
-    ```<li>Two</li>```
+       ```<li>Two</li>```
 
-    ```<li>Three</li>```
+       ```<li>Three</li>```
 
     ```</ol>```  
 
@@ -40,7 +40,7 @@
 
  ```const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];```
 
-    * It is valid.  ```console.log([number of desired array][number of desired index]);```
+* It is valid.  console.log([number of desired array][number of desired index]);```
 
     3. List five shorthand operators for assignment in javascript and describe what they do, taken from [w3schools](https://www.w3schools.com/js/js_assignment.asp).
     - ```=``` assigns a value to a variable
@@ -59,12 +59,12 @@
 
  ```(a + c) + b;```
 
-    The answer to this is "10dog", because adding a number (a) to a boolean (0-false, or 1-true) returns a number.  Then adding a string to a number simply concatenates the two.  
+The answer to this is "10dog", because adding a number (a) to a boolean (0-false, or 1-true) returns a number.  Then adding a string to a number simply concatenates the two.  
 
-    5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
+5. Describe a real world example of when a conditional statement should be used in a JavaScript program.
     - Ensuring that a user agrees to privacy policies.  If they click "no," then they can't continue.  If they click "yes", or "agree", they can continue.  
 
-    6. Give an example of when a Loop is useful in JavaScript.
+6. Give an example of when a Loop is useful in JavaScript.
     - A loop would be useful if a user tried top bypass a required data entry point. If teh input field is empty, JavaScript can keeping looping the user back to teh input point.
 
 [Home](README.md)
