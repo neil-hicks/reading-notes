@@ -3,19 +3,21 @@
 ## HTML
 
 Q: When should you use an unordered list in your HTML document?
-    - Use an unordered list the order of the list does not matter.
+
+- Use an unordered list the order of the list does not matter.
 
 Q: How do you change the bullet style of unordered list items?
 
 - ```list-style-type``` property in CSS.  Source [mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
 
 Q: When should you use an ordered list vs an unorder list in your HTML document?
-    - An ordered list is used when the order of the list matters, e.g. countdown list of top-grossing movies.
+
+- An ordered list is used when the order of the list matters, e.g. countdown list of top-grossing movies.
 
 Q: Describe two ways you can change the numbers on list items provided by an ordered list?
 
 - Lists can be numbered in several ways, numbers, Roman numerals, and letters.
-  - These can be changed by adding 'type' attribute to the opening ```<ol type="">``` tag
+- These can be changed by adding 'type' attribute to the opening ```<ol type="">``` tag
 
 ## CSS
 
