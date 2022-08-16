@@ -10,14 +10,13 @@ Q: When should you use an ordered list vs an unorder list in your HTML document?
 Q: Describe two ways you can change the numbers on list items provided by an ordered list?
 
 - Lists can be numbered in several ways, numbers, Roman numerals, and letters.
-    ```<ol>```
 
+    ```<ol>```
        ```<li>One</li>```
 
        ```<li>Two</li>```
 
        ```<li>Three</li>```
-
     ```</ol>```  
 
 - These can be changed by adding 'type' attribute to the opening ```<ol type="">``` tag
@@ -43,10 +42,15 @@ Q: Is the people array a valid JavaScript array? If so, how can I access the val
 - It is valid.  console.log([number of desired array][number of desired index]);```
 
 Q: List five shorthand operators for assignment in javascript and describe what they do, taken from [w3schools](https://www.w3schools.com/js/js_assignment.asp).
+
     - ```=``` assigns a value to a variable
+
     - ```+=``` adds a value to a variable
+
     - ```-=``` subtracts a number from a variable
+
     - ```*=``` multiplies a numerb times a variable
+    
     - ```/=``` divides a variable by a value
 
 Q: Read the code below and evaluate the last expression and explain what the result would be and why.
