@@ -66,3 +66,5 @@
 
     6. Give an example of when a Loop is useful in JavaScript.
     - A loop would be useful if a user tried top bypass a required data entry point. If teh input field is empty, JavaScript can keeping looping the user back to teh input point.
+
+[Home](README.md)

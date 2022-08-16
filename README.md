@@ -15,6 +15,8 @@
 
 [Class02 Reading Notes- Basics of HTML, CSS and JS](class02.md)
 
+[Class03 Reading Notes - HTML Lists, Control Flow with JS, and the CSS Box Model](class03.md)
+
 #### Course 102 reading notes
 
 [Course 102 reading notes](102-notes/102-notes.md)
