@@ -73,6 +73,6 @@ Q: Describe a real world example of when a conditional statement should be used 
     - Ensuring that a user agrees to privacy policies.  If they click "no," then they can't continue.  If they click "yes", or "agree", they can continue.  
 
 Q: Give an example of when a Loop is useful in JavaScript.
-    - A loop would be useful if a user tried top bypass a required data entry point. If teh input field is empty, JavaScript can keeping looping the user back to teh input point.
+    - A loop would be useful if a user tried top bypass a required data entry point. If the input field is empty, JavaScript can keeping looping the user back to the input point.
 
 [Home](README.md)
