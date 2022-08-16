@@ -4,9 +4,14 @@
 
 Q: When should you use an unordered list in your HTML document?
     - Use an unordered list the order of the list does not matter.
+
 Q: How do you change the bullet style of unordered list items?
+
+- ```list-style-type``` property in CSS.  Source [mdn](https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-type)
+
 Q: When should you use an ordered list vs an unorder list in your HTML document?
     - An ordered list is used when the order of the list matters, e.g. countdown list of top-grossing movies.
+
 Q: Describe two ways you can change the numbers on list items provided by an ordered list?
 
 - Lists can be numbered in several ways, numbers, Roman numerals, and letters.
@@ -18,9 +23,13 @@ Q: Describe the CSS properties of margin and padding as characters in a story. W
     - I'm not sure what this means...Basically the margin is the outermost box in which all HTML elements are located.  Just inside of the margins are the borders.  Inside of the borders is the padding which allows for a certain amount of room sround the content.  Basically the spacing between the border and the content.  
 
 Q: List and describe the four parts of an HTML elements box as referred to by the box model> Taken from [w3schools](https://www.w3schools.com/css/css_boxmodel.asp)
-    *Content - where text and images appear
+
+    * Content - where text and images appear
+
     * Padding - area around content
-    *Border - Surrounds padding and content and can provide visual separation
+
+    * Border - Surrounds padding and content and can provide visual separation
+
     * Margin - Outside edge of "box"
 
 ## JS
