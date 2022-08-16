@@ -10,25 +10,18 @@ Q: When should you use an ordered list vs an unorder list in your HTML document?
 Q: Describe two ways you can change the numbers on list items provided by an ordered list?
 
 - Lists can be numbered in several ways, numbers, Roman numerals, and letters.
-
-    ```<ol>```
-       ```<li>One</li>```
-
-       ```<li>Two</li>```
-
-       ```<li>Three</li>```
-    ```</ol>```  
-
-- These can be changed by adding 'type' attribute to the opening ```<ol type="">``` tag
+  - These can be changed by adding 'type' attribute to the opening ```<ol type="">``` tag
 
 ## CSS
 
 Q: Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
     - I'm not sure what this means...Basically the margin is the outermost box in which all HTML elements are located.  Just inside of the margins are the borders.  Inside of the borders is the padding which allows for a certain amount of room sround the content.  Basically the spacing between the border and the content.  
 
-Q: List and describe the four parts of an HTML elements box as referred to by the box model
-
-    -
+Q: List and describe the four parts of an HTML elements box as referred to by the box model> Taken from [w3schools](https://www.w3schools.com/css/css_boxmodel.asp)
+    *Content - where text and images appear
+    * Padding - area around content
+    *Border - Surrounds padding and content and can provide visual separation
+    * Margin - Outside edge of "box"
 
 ## JS
 
@@ -50,7 +43,7 @@ Q: List five shorthand operators for assignment in javascript and describe what 
     - ```-=``` subtracts a number from a variable
 
     - ```*=``` multiplies a numerb times a variable
-    
+
     - ```/=``` divides a variable by a value
 
 Q: Read the code below and evaluate the last expression and explain what the result would be and why.
