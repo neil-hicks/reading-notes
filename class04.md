@@ -28,7 +28,8 @@ Q: Name a few advantages to using absolute positioning on an element. From [mdn]
     > An absolutely positioned element no longer exists in the normal document flow. Instead, it sits on its own layer separate from everything else. This is very useful: it means that we can create isolated UI features that don't interfere with the layout of other elements on the page. For example, popup information boxes, control menus, rollover panels, UI features that can be dragged and dropped anywhere on the page, and so on.
 
 Q: What is a key difference between fixed positioning and absolute positioning?
-    * Absolute can be placed anywhere, relative positioning shifts around where it would normally be
+
+* Absolute can be placed anywhere, relative positioning shifts around where it would normally be
 
 ## Learn JS
 
