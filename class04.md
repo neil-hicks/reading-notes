@@ -19,7 +19,7 @@ Q: What are a few differences between block-level and inline elements?
 
 Q: ___ positioning is the default for every html element.
     * Static
-Name a few advantages to using absolute positioning on an element.
+Name a few advantages to using absolute positioning on an element. From [mdn](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
     > An absolutely positioned element no longer exists in the normal document flow. Instead, it sits on its own layer separate from everything else. This is very useful: it means that we can create isolated UI features that don't interfere with the layout of other elements on the page. For example, popup information boxes, control menus, rollover panels, UI features that can be dragged and dropped anywhere on the page, and so on.
 What is a key difference between fixed positioning and absolute positioning?
 Learn JS
@@ -31,3 +31,4 @@ Miscellaneous
 6 Reasons for Pair Programming
 
 Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+
