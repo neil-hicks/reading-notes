@@ -19,6 +19,8 @@
 
 [Class04 Reading Notes - Links, JS Functions and CSS Layout](class04.md)
 
+[Class05 Reading Notes - Images, Color, Text](class05.md)
+
 #### Course 102 reading notes
 
 [Course 102 reading notes](102-notes/102-notes.md)
